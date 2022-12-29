@@ -1,0 +1,7 @@
+.services{
+    flex-direction: column;
+    flex-wrap: wrap;
+}.cont-img{
+    width: 90%;
+    margin-bottom: 10px;
+}
