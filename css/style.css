@@ -66,7 +66,7 @@ body{
     background: url("../img/body.jfif") repeat-x center center/cover;
     position: absolute;
     top:0px;
-    height:50em;
+    height:55em;
     width: 100%;
     z-index: -1;
     opacity: 0.7;
